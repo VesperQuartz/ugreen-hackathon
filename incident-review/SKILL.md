@@ -44,7 +44,7 @@ Delegate in this order, and pass only the real result of one step into the step 
 
 `delegate --target knowledge-agent --instruction 'Save the provided incident brief text as a single note titled with the location and the time window. Confirm the save result and report any missing part, and do not add events that were not provided.'`
 
-For the brief structure, see [references/incident-brief-format.md](references/incident-brief-format.md).
+For the brief structure, see [references/incident-brief-format.md](references/incident-brief-format.md). For who the Skill is for and how to use it, see [references/readme.md](references/readme.md). For third-party, license, and AI-tool disclosures, see [references/disclosures.md](references/disclosures.md).
 
 # Completion and failure
 
